@@ -1,0 +1,15 @@
+TEST 1
+
+1. Draw a polygon with sides of 16 using the repeat statement...
+
+use https://turtleacademy.com/lessons/42 to view polygon
+
+Answer:
+
+TO polygon
+cs
+repeat 8 [fd 16 rt 45]
+ht
+END
+
+polygon

@@ -1,0 +1,15 @@
+TEST 1
+
+1. Draw an equilateral triangle with sides of 12...
+
+use https://turtleacademy.com/lessons/42 to view equilateral triangle
+
+Answers:
+
+TO equilateraltriangle
+cs
+repeat 3 [fd 12 rt 120]
+ht
+END
+
+equilateraltriangle

@@ -1,0 +1,15 @@
+TEST 1
+
+1. Draw a square with length of sides of 10...
+
+use https://turtleacademy.com/lessons/42 to view square
+
+Answer:
+
+TO square
+cs
+repeat 4[fd 10 rt 90]
+ht
+END
+
+square
